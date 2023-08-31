@@ -12,11 +12,11 @@
 *.xd
 
 # Avoid folder
-design/
+design/*
 
 # Avoid file
+!design/desktop-preview.jpg
 README-template.md
-README.md
 style-guide.md
 
 # Avoid your project being littered with annoying .DS_Store files!
